@@ -1,0 +1,22 @@
+{
+  "name": "dhbw-vorlesung-a",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hallo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luca-alicia/DHBW-Vorlesung-A.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luca-alicia/DHBW-Vorlesung-A/issues"
+  },
+  "homepage": "https://github.com/luca-alicia/DHBW-Vorlesung-A#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
